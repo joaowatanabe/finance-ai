@@ -1,5 +1,7 @@
+import { Button } from "./_components/ui/button";
+
 const Home = () => {
-  return ( )
+  return <Button>{"inscreva-se".toUpperCase()}</Button>;
 };
 
 export default Home;
