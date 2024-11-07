@@ -7,7 +7,7 @@ import {
 export const TRANSACTION_CATEGORY_LABELS = {
   EDUCATION: "Educação",
   ENTERTAINMENT: "Entretenimento",
-  FOOD: "ALimentação",
+  FOOD: "Alimentação",
   HEALTH: "Saúde",
   HOUSING: "Moradia",
   OTHER: "Outros",
