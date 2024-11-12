@@ -9,14 +9,14 @@ interface SummaryCardProps {
   size?: "small" | "large";
 }
 
-const SumaryCard = ({
+const SummaryCard = ({
   icon,
   title,
   amount,
   size = "small",
 }: SummaryCardProps) => {
   return (
-    <Card className={`${size === "large" ? "bg-white bg-opacity-5" : ""}`}>
+    <Card>
       <CardHeader className="flex-row items-center gap-4">
         {icon}
         <p
@@ -41,4 +41,4 @@ const SumaryCard = ({
   );
 };
 
-export default SumaryCard;
+export default SummaryCard;
