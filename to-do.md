@@ -1,0 +1,7 @@
+## To do
+
+- DEPLOY
+
+- STRIPE WEBHOOK SECRET
+
+- APP URL OPEN AI
